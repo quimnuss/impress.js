@@ -31,6 +31,7 @@ EXAMPLES AND OTHER LEARNING RESOURCES
 ### Official demo
 
 [impress.js demo](http://bartaz.github.com/impress.js) by [@bartaz](http://twitter.com/bartaz)
+
 [quimnuss impress.js demo](http://quimnuss.github.com/impress.js) by [@quimnuss](http://github.com/quimnuss)
 
 ### Examples and demos
